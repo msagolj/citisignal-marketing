@@ -19,7 +19,7 @@
   --border-color: #eaeaea;
   --border-radius: 18px;
   /* default content image radius*/
-  --default-image-radius: var(--border-radius);
+  --default-image-border-radius: var(--border-radius);
 }
 
 :root,
@@ -519,7 +519,7 @@ main img {
 /* default content image inside main and columns*/
 .columns.block img,
 main .default-content-wrapper img {
-  border-radius: var(--default-image-radius);
+  border-radius: var(--default-image-border-radius);
 }
 
 .icon {
