@@ -10,8 +10,8 @@
       "/content/citisignal-marketing/placeholders:/placeholders.json",
       "/content/citisignal-marketing/products/recommended-products:/products/recommended-products.json",
       "/content/citisignal-marketing/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/citisignal-marketing/enrichment/enrichment:/designs/default.json",
-      "/content/citisignal-marketing/enrichment/enrichment:/designs/marketing.json",
+      "/content/citisignal-marketing/designs/default:/designs/default.json",
+      "/content/citisignal-marketing/designs/marketing:/designs/marketing.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
