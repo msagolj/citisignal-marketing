@@ -360,12 +360,13 @@ main pre {
   white-space: pre;
 }
 
+/* buttons inside blocks */
 .block a:any-link.button {
   width: fit-content;
   padding: 10px;
   padding-inline: 30px;
   background-color: var(--primary-color);
-  border-radius: 30px;
+  border-radius: var(--button-radius);
 }
 
 /* links */
